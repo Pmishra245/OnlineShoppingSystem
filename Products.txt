@@ -1,0 +1,7 @@
+Amazon Fire HD 10 (2021),14999.0,Affordable with Alexa integration,Tablet
+Apple iPad Pro (2021),99900.0,M1 Chip for high performance,Tablet
+Google Pixel 6 (2021),59999.0,Stock Android experience with great camera,Phone
+Samsung Galaxy A52 (2021),26499.0,Super AMOLED display with 90Hz refresh rate,Phone
+Xiaomi Mi 11 (2021),56999.0,High-resolution 108MP camera,Phone
+Lenovo ThinkPad X1 Carbon (9th Gen),140000.0,Durable build with excellent keyboard,Laptop
+Asus ROG Zephyrus G14 (2021),144990.0,Powerful gaming performance in a compact design,Laptop
