@@ -1,4 +1,4 @@
-# Online Shopping System
+# Shopping System
 
 The *Online Shopping System* is a Java-based application that provides a simple and user-friendly interface for customers to browse and purchase electronics, including phones, tablets, and laptops. The system also includes administrative functionalities for managing inventory and users.
 
