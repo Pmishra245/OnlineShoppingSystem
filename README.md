@@ -35,6 +35,6 @@ The *Online Shopping System* is a Java-based application that provides a simple 
 
 2. *Clone the Repository*:
    ```bash
-   git clone https://github.com/Pmishra245/OnlineShoppingSystem.git
-   cd OnlineShoppingSystem
+   git clone https://github.com/Pmishra245/ShoppingSystem.git
+   cd ShoppingSystem
    ```
